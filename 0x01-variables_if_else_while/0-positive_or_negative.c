@@ -1,9 +1,9 @@
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
 /**
  * main - main block
  * Description: check whether a random no. is negative or positive
- * and if it is positive, negative, or zero
  * Return: 0
  */
 int main(void)
