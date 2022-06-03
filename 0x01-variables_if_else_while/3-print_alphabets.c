@@ -16,12 +16,12 @@ int main(void)
 		lower_alpha++;
 	}
 
-	char upper_alpha = 'A';
+	lowe_alpha = 'A';
 
-	while (upper_alpha <= 'Z')
+	while (lower_alpha <= 'Z')
 	{
-		putchar(upper_alpha);
-		upper_alpha++;
+		putchar(lower_alpha);
+		lower_alpha++;
 	}
 
 	putchar('\n');
