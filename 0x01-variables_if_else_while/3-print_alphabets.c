@@ -16,7 +16,7 @@ int main(void)
 		lower_alpha++;
 	}
 
-	lowe_alpha = 'A';
+	lower_alpha = 'A';
 
 	while (lower_alpha <= 'Z')
 	{
