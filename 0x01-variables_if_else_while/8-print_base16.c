@@ -15,12 +15,12 @@ int main(void)
 		base_16++;
 	}
 
-	char alph_16 = 'a';
+	base_16 = 'a';
 
-	while (alph_16 <= 'f')
+	while (base_16 <= 'f')
 	{
-		putchar(alph_16);
-		alph_16++;
+		putchar(base_16);
+		base_16++;
 	}
 
 	putchar('\n');
