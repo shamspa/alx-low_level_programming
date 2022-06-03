@@ -9,6 +9,7 @@
 int main(void)
 {
 	char lower_alpha = 'a';
+
 	while (lower_alpha <= 'z')
 	{
 		putchar(lower_alpha);
