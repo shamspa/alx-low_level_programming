@@ -1,1 +1,1 @@
-#ifndef MAIN_H_INCLUDED
+void print_alphabet(void);
